@@ -35,3 +35,7 @@
 	path = RSQLite
 	url = https://github.com/r-dbi/rsqlite
 	shallow = true
+[submodule "dblog"]
+	path = dblog
+	url = https://github.com/r-dbi/dblog
+	shallow = true
