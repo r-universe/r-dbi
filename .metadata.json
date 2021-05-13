@@ -1,0 +1,34 @@
+[
+  {
+    "package": "bigrquery",
+    "oncran": true
+  },
+  {
+    "package": "DBI",
+    "oncran": true
+  },
+  {
+    "package": "DBItest",
+    "oncran": true
+  },
+  {
+    "package": "odbc",
+    "oncran": true
+  },
+  {
+    "package": "RMariaDB",
+    "oncran": true
+  },
+  {
+    "package": "RMySQL",
+    "oncran": true
+  },
+  {
+    "package": "RPostgres",
+    "oncran": true
+  },
+  {
+    "package": "RSQLite",
+    "oncran": true
+  }
+]
