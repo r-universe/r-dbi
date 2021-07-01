@@ -48,3 +48,8 @@
 	url = https://github.com/r-dbi/dblog
 	shallow = true
 	registered = false
+[submodule "gargle"]
+	path = gargle
+	url = https://github.com/r-lib/gargle
+	shallow = true
+	registered = false
