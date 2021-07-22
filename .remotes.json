@@ -4,11 +4,5 @@
     "url": "https://github.com/r-dbi/dblog",
     "via": ["DBItest"],
     "from": "DBItest"
-  },
-  {
-    "package": "gargle",
-    "url": "https://github.com/r-lib/gargle",
-    "via": ["bigrquery"],
-    "from": "bigrquery"
   }
 ]
