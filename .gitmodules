@@ -43,8 +43,3 @@
 	url = https://github.com/r-dbi/rsqlite
 	shallow = true
 	registered = true
-[submodule "dblog"]
-	path = dblog
-	url = https://github.com/r-dbi/dblog
-	shallow = true
-	registered = false
