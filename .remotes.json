@@ -1,11 +1,5 @@
 [
   {
-    "package": "DBI",
-    "url": "https://github.com/r-dbi/DBI",
-    "via": ["RMariaDB"],
-    "from": "RMariaDB"
-  },
-  {
     "package": "dblog",
     "url": "https://github.com/r-dbi/dblog",
     "via": ["DBItest"],
