@@ -1,8 +1,20 @@
 [
   {
+    "package": "DBItest",
+    "url": "https://github.com/r-dbi/DBItest",
+    "via": ["RPostgres"],
+    "from": "RPostgres"
+  },
+  {
     "package": "dblog",
     "url": "https://github.com/r-dbi/dblog",
     "via": ["DBItest"],
     "from": "DBItest"
+  },
+  {
+    "package": "dblog",
+    "url": "https://github.com/r-dbi/dblog",
+    "via": ["RPostgres", "DBItest"],
+    "from": "RPostgres"
   }
 ]
