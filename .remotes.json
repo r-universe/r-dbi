@@ -2,6 +2,12 @@
   {
     "package": "DBItest",
     "url": "https://github.com/r-dbi/DBItest",
+    "via": ["RMariaDB"],
+    "from": "RMariaDB"
+  },
+  {
+    "package": "DBItest",
+    "url": "https://github.com/r-dbi/DBItest",
     "via": ["RPostgres"],
     "from": "RPostgres"
   },
@@ -10,6 +16,12 @@
     "url": "https://github.com/r-dbi/dblog",
     "via": ["DBItest"],
     "from": "DBItest"
+  },
+  {
+    "package": "dblog",
+    "url": "https://github.com/r-dbi/dblog",
+    "via": ["RMariaDB", "DBItest"],
+    "from": "RMariaDB"
   },
   {
     "package": "dblog",
