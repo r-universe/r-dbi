@@ -20,12 +20,6 @@
   {
     "package": "dblog",
     "url": "https://github.com/r-dbi/dblog",
-    "via": ["RPostgres", "DBItest"],
-    "from": "RPostgres"
-  },
-  {
-    "package": "dblog",
-    "url": "https://github.com/r-dbi/dblog",
     "via": ["RSQLite", "DBItest"],
     "from": "RSQLite"
   }
