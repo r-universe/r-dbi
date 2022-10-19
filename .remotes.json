@@ -1,11 +1,5 @@
 [
   {
-    "package": "DBItest",
-    "url": "https://github.com/r-dbi/DBItest",
-    "via": ["RSQLite"],
-    "from": "RSQLite"
-  },
-  {
     "package": "dblog",
     "url": "https://github.com/r-dbi/dblog",
     "via": ["DBItest"],
