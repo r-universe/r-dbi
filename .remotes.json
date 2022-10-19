@@ -2,12 +2,6 @@
   {
     "package": "DBItest",
     "url": "https://github.com/r-dbi/DBItest",
-    "via": ["RMariaDB"],
-    "from": "RMariaDB"
-  },
-  {
-    "package": "DBItest",
-    "url": "https://github.com/r-dbi/DBItest",
     "via": ["RPostgres"],
     "from": "RPostgres"
   },
