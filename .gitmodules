@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/r-dbi/universe
 	shallow = true
 	branch = HEAD
 [submodule "bigrquery"]
@@ -42,6 +42,12 @@
 	path = RSQLite
 	url = https://github.com/r-dbi/rsqlite
 	shallow = true
+	registered = true
+[submodule "duckadbc"]
+	path = duckadbc
+	url = https://github.com/r-dbi/duckadbc
+	shallow = true
+	subdir = tools/rpkg
 	registered = true
 [submodule "dblog"]
 	path = dblog

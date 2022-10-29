@@ -30,5 +30,8 @@
   {
     "package": "RSQLite",
     "oncran": true
+  },
+  {
+    "package": "duckadbc"
   }
 ]
