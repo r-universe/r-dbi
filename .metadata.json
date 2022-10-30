@@ -4,6 +4,9 @@
     "oncran": true
   },
   {
+    "package": "dblog"
+  },
+  {
     "package": "DBI",
     "oncran": true
   },

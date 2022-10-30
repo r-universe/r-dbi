@@ -8,6 +8,11 @@
 	url = https://github.com/r-dbi/bigrquery
 	shallow = true
 	registered = true
+[submodule "dblog"]
+	path = dblog
+	url = https://github.com/r-dbi/dblog
+	shallow = true
+	registered = true
 [submodule "DBI"]
 	path = DBI
 	url = https://github.com/r-dbi/dbi
@@ -49,8 +54,3 @@
 	shallow = true
 	subdir = tools/rpkg
 	registered = true
-[submodule "dblog"]
-	path = dblog
-	url = https://github.com/r-dbi/dblog
-	shallow = true
-	registered = false
