@@ -1,56 +1,35 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-dbi/universe
-	shallow = true
 	branch = HEAD
 [submodule "bigrquery"]
 	path = bigrquery
 	url = https://github.com/r-dbi/bigrquery
-	shallow = true
-	registered = true
 [submodule "dblog"]
 	path = dblog
 	url = https://github.com/r-dbi/dblog
-	shallow = true
-	registered = true
 [submodule "DBI"]
 	path = DBI
 	url = https://github.com/r-dbi/dbi
-	shallow = true
-	registered = true
 [submodule "DBItest"]
 	path = DBItest
 	url = https://github.com/r-dbi/dbitest
-	shallow = true
-	registered = true
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/r-dbi/odbc
-	shallow = true
-	registered = true
 [submodule "RMariaDB"]
 	path = RMariaDB
 	url = https://github.com/r-dbi/rmariadb
-	shallow = true
-	registered = true
 [submodule "RMySQL"]
 	path = RMySQL
 	url = https://github.com/r-dbi/rmysql
-	shallow = true
-	registered = true
 [submodule "RPostgres"]
 	path = RPostgres
 	url = https://github.com/r-dbi/rpostgres
-	shallow = true
-	registered = true
 [submodule "RSQLite"]
 	path = RSQLite
 	url = https://github.com/r-dbi/rsqlite
-	shallow = true
-	registered = true
 [submodule "duckadbc"]
 	path = duckadbc
 	url = https://github.com/r-dbi/duckadbc
-	shallow = true
 	subdir = tools/rpkg
-	registered = true
