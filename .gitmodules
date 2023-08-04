@@ -2,21 +2,12 @@
 	path = .registry
 	url = https://github.com/r-dbi/universe
 	branch = HEAD
-[submodule "bigrquery"]
-	path = bigrquery
-	url = https://github.com/r-dbi/bigrquery
-[submodule "dblog"]
-	path = dblog
-	url = https://github.com/r-dbi/dblog
 [submodule "DBI"]
 	path = DBI
 	url = https://github.com/r-dbi/dbi
 [submodule "DBItest"]
 	path = DBItest
 	url = https://github.com/r-dbi/dbitest
-[submodule "odbc"]
-	path = odbc
-	url = https://github.com/r-dbi/odbc
 [submodule "RMariaDB"]
 	path = RMariaDB
 	url = https://github.com/r-dbi/rmariadb
@@ -29,7 +20,16 @@
 [submodule "RSQLite"]
 	path = RSQLite
 	url = https://github.com/r-dbi/rsqlite
+[submodule "bigrquery"]
+	path = bigrquery
+	url = https://github.com/r-dbi/bigrquery
+[submodule "dblog"]
+	path = dblog
+	url = https://github.com/r-dbi/dblog
 [submodule "duckadbc"]
 	path = duckadbc
 	url = https://github.com/r-dbi/duckadbc
 	subdir = tools/rpkg
+[submodule "odbc"]
+	path = odbc
+	url = https://github.com/r-dbi/odbc
