@@ -26,10 +26,6 @@
 [submodule "dblog"]
 	path = dblog
 	url = https://github.com/r-dbi/dblog
-[submodule "duckadbc"]
-	path = duckadbc
-	url = https://github.com/r-dbi/duckadbc
-	subdir = tools/rpkg
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/r-dbi/odbc
