@@ -20,6 +20,9 @@
 [submodule "RSQLite"]
 	path = RSQLite
 	url = https://github.com/r-dbi/rsqlite
+[submodule "adbi"]
+	path = adbi
+	url = https://github.com/r-dbi/adbi
 [submodule "bigrquery"]
 	path = bigrquery
 	url = https://github.com/r-dbi/bigrquery
