@@ -20,16 +20,6 @@
 [submodule "RSQLite"]
 	path = RSQLite
 	url = https://github.com/r-dbi/rsqlite
-[submodule "adbcdrivermanager"]
-	path = adbcdrivermanager
-	url = https://github.com/apache/arrow-adbc
-	subdir = r/adbcdrivermanager
-	registered = false
-[submodule "adbcsqlite"]
-	path = adbcsqlite
-	url = https://github.com/apache/arrow-adbc
-	subdir = r/adbcsqlite
-	registered = false
 [submodule "adbi"]
 	path = adbi
 	url = https://github.com/r-dbi/adbi

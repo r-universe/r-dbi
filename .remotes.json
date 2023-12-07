@@ -4,25 +4,5 @@
     "url": "https://github.com/r-dbi/DBI",
     "via": ["DBItest"],
     "from": "DBItest"
-  },
-  {
-    "package": "DBI",
-    "url": "https://github.com/r-dbi/DBI",
-    "via": ["adbi"],
-    "from": "adbi"
-  },
-  {
-    "package": "adbcdrivermanager",
-    "url": "https://github.com/apache/arrow-adbc",
-    "via": ["adbi"],
-    "subdir": "r/adbcdrivermanager",
-    "from": "adbi"
-  },
-  {
-    "package": "adbcsqlite",
-    "url": "https://github.com/apache/arrow-adbc",
-    "via": ["adbi"],
-    "subdir": "r/adbcsqlite",
-    "from": "adbi"
   }
 ]
