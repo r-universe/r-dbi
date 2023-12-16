@@ -4,5 +4,11 @@
     "url": "https://github.com/r-dbi/DBI",
     "via": ["DBItest"],
     "from": "DBItest"
+  },
+  {
+    "package": "DBItest",
+    "url": "https://github.com/r-dbi/DBItest",
+    "via": ["DBI"],
+    "from": "DBI"
   }
 ]
