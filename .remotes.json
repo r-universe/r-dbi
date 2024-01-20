@@ -2,7 +2,7 @@
   {
     "package": "DBI",
     "url": "https://github.com/r-dbi/DBI",
-    "via": ["DBItest", "RSQLite"],
+    "via": ["DBItest"],
     "from": "DBItest"
   },
   {
