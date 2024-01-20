@@ -6,18 +6,6 @@
     "from": "DBItest"
   },
   {
-    "package": "DBI",
-    "url": "https://github.com/r-dbi/DBI",
-    "via": ["RSQLite"],
-    "from": "RSQLite"
-  },
-  {
-    "package": "DBItest",
-    "url": "https://github.com/r-dbi/DBItest",
-    "via": ["RSQLite"],
-    "from": "RSQLite"
-  },
-  {
     "package": "RSQLite",
     "url": "https://github.com/r-dbi/RSQLite",
     "via": ["DBItest"],
