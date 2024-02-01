@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-dbi/universe
+	url = https://github.com/r-dbi/r-dbi.r-universe.dev
 	branch = HEAD
 [submodule "DBI"]
 	path = DBI
