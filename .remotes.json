@@ -1,7 +1,7 @@
 [
   {
-    "package": "nanoparquet",
-    "url": "https://github.com/r-lib/nanoparquet",
+    "package": "bigrquerystorage",
+    "url": "https://github.com/meztez/bigrquerystorage",
     "via": ["bigrquery"],
     "from": "bigrquery"
   }

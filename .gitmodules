@@ -26,13 +26,13 @@
 [submodule "bigrquery"]
 	path = bigrquery
 	url = https://github.com/r-dbi/bigrquery
+[submodule "bigrquerystorage"]
+	path = bigrquerystorage
+	url = https://github.com/meztez/bigrquerystorage
+	registered = false
 [submodule "dblog"]
 	path = dblog
 	url = https://github.com/r-dbi/dblog
-[submodule "nanoparquet"]
-	path = nanoparquet
-	url = https://github.com/r-lib/nanoparquet
-	registered = false
 [submodule "odbc"]
 	path = odbc
 	url = https://github.com/r-dbi/odbc
