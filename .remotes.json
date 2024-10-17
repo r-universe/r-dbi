@@ -1,8 +1,0 @@
-[
-  {
-    "package": "bigrquerystorage",
-    "url": "https://github.com/meztez/bigrquerystorage",
-    "via": ["bigrquery"],
-    "from": "bigrquery"
-  }
-]
