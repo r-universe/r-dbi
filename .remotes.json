@@ -1,0 +1,8 @@
+[
+  {
+    "package": "DBItest",
+    "url": "https://github.com/r-dbi/DBItest",
+    "via": ["adbi"],
+    "from": "adbi"
+  }
+]
